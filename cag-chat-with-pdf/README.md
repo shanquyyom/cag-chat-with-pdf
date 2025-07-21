@@ -2,14 +2,6 @@
 
 Interact with your PDF files using natural language! This project allows you to upload any PDF document and ask questions, powered by FastAPI, LangChain, OpenAI, and PyMuPDF. Designed for developers and learners exploring real-world applications of LLMs.
 
----
-
-## 📸 Demo
-
-*(Add video or image here — optional)*  
-👉 Example: `demo.mp4` or a Google Drive / YouTube link
-
----
 
 ## 🚀 Features
 
